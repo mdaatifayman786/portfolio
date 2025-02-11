@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'sign';
+  src: url('./assets/fonts/signFont.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'base';
+  src: url('./assets/fonts/base.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "outliner";
+  src: url('./assets/fonts/outliner.otf');
+}
+@font-face {
+  font-family: "lato";
+  src: url('./assets/fonts/lato.ttf');
+}
